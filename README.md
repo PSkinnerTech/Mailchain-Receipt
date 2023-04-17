@@ -4,7 +4,7 @@
 [<img width="1296" alt="Screenshot 2023-04-17 at 10 06 36 AM" src="https://user-images.githubusercontent.com/78289253/232527328-fd417fd2-f127-4383-8f58-464e82e0a462.png">](https://www.loom.com/share/049f205e96c74569ace1a60b956d503d)
 
 
-## **Title: Build a Next.js dApp to Buy Coffee and Send Receipts via Mailchain**
+## **Build a Next.js dApp to Buy Coffee and Send Receipts via Mailchain**
 
 In this tutorial, you will learn how to build a Next.js decentralized application (dApp) that enables users to buy coffee using Ethereum and receive a receipt sent to their ENS address using Mailchain. Next.js is a popular React framework that simplifies the creation of server-rendered React applications.
 
