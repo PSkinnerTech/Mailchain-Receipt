@@ -1,3 +1,5 @@
+// This project is licensed under the terms of the MIT license.
+
 # **Buy Me a Coffee using Mailchain - A Step-by-Step Tutorial**
 
 
